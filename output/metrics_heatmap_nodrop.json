@@ -1,0 +1,6 @@
+{
+    "train_error_px": 8.19929829120636,
+    "val_error_px": 14.959050621986389,
+    "test_error_px": 11.472312002182006,
+    "best_val_heatmap_loss": 0.031870522126555445
+}
