@@ -971,10 +971,10 @@ how the system arrived at that output.
 # 26. Example Streamlit Result
 
 <p align="center">
-  <img src="assets/streamlit_result_1.png" width="100%">
+  <img src="assets/streamlit_output_1.png" width="100%">
 </p>
 <p align="center">
-  <img src="assets/streamlit_result_2.png" width="100%">
+  <img src="assets/streamlit_output_2.png" width="100%">
 </p>
 
 ------------------------------------------------------------------------
